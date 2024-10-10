@@ -24,4 +24,3 @@ The **TfL Bus Safety Dataset** provided here contains information about safety i
 
 This dataset can be used to identify trends, such as which bus routes or operators have the most incidents, the types of injuries reported, and the locations where incidents frequently occur. Such insights can help in policy-making decisions, focusing on improving the safety and well-being of passengers and road users across London's bus network.
 
-Would you like to proceed with an analysis or specific visualization of the data?
